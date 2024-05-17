@@ -1,4 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+### NAME:G.ROHIT
+### REGISTER NUMBER:212222240083
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -58,12 +60,13 @@ while True:
     conn.close()
 ```
 ## OUPUT
-CLIENT:
-![Screenshot 2024-04-24 204538](https://github.com/pragachellapillai/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148254952/c62947a7-62d2-4062-be5a-debdad7a3375)
+### CLIENT:
 
-SERVER:
+ <img src="https://github.com/pragachellapillai/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148254952/c62947a7-62d2-4062-be5a-debdad7a3375.type" width="700" height="500">
 
-![Screenshot 2024-04-24 204549](https://github.com/pragachellapillai/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148254952/f34242ca-07de-4c83-b188-f9d41b380182)
+### SERVER:
+
+ <img src="https://github.com/pragachellapillai/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148254952/f34242ca-07de-4c83-b188-f9d41b380182.type" width="700" height="500">
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
