@@ -66,7 +66,7 @@ while True:
 
 ### SERVER:
 
- <img src="https://github.com/pragachellapillai/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148254952/f34242ca-07de-4c83-b188-f9d41b380182.type" width="700" height="500">
+ <img src="https://github.com/pragachellapillai/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148254952/f34242ca-07de-4c83-b188-f9d41b380182.type" width="" height="200">
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
